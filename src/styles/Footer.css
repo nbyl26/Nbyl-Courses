@@ -1,0 +1,15 @@
+#copyright {
+    background-color: #ffffff;
+    color: #343a40;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.wrapper {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.wrapper b {
+    font-weight: bold;
+}
